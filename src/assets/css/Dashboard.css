@@ -1,0 +1,85 @@
+/* form css */
+.submit_btn {
+    background-color: #80bbff;
+    color: black;
+    border: none;
+    margin-top: 10px;
+    font-weight: 700;
+}
+
+.form-label {
+    font-weight: 600;
+}
+
+
+/* individula News page css */
+.Individual_img_bg {
+    background-color: #999898;
+    padding: 9px;
+    width: 94vw;
+
+    border: none;
+    border-radius: 8px;
+}
+
+.Individual_img_bg img {
+    border: none;
+    border-radius: 8px;
+}
+
+.news-card {
+    display: flex;
+    align-items: center;
+
+}
+
+.card-title {
+    font-weight: 900;
+    margin-top: 20px;
+    width: 100vw;
+    margin-left: 26px;
+}
+
+/* dashboard css */
+.dashboard_other_options {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.dashboard_container {
+    margin: 0;
+    padding: 0;
+}
+
+.dashboard_icons {
+    margin: 5px;
+}
+
+.dashboard_para {
+    margin-bottom: 5px;
+}
+
+.header {
+    background-color: #80BBFF;
+}
+
+.plus_button {
+    border-radius: 25px;
+    background-color: black;
+    color: #80BBFF;
+    font-size: 25px;
+    padding: 0px 9px;
+}
+
+.news-item {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.news-item img {
+    border-radius: 8px;
+    max-height: 200px;
+    /* Adjust height as necessary */
+    object-fit: cover;
+}
